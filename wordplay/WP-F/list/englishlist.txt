@@ -1,0 +1,2196 @@
+﻿elevator
+bathroom
+fence
+chimney
+dining room
+corridor
+bedroom
+stairway [stairs,staircase]
+room
+bedroom
+living room
+kitchen
+patio
+garden
+cupboard
+carpet [rug]
+pillow
+appliance [device, gadget]
+wardrobe [closet]
+vacuum cleaner
+bathtub
+coffee pot
+heater
+bed
+brush
+dresser
+curtain
+painting
+shower
+broom
+mirror
+shelf
+stove
+(kitchen) sink
+cabinet
+oven
+microwave
+toilet
+basin [(bathroom) sink]
+washer [washing machine]
+dishwasher
+table
+hairdryer
+clothes dryer
+armchair
+bush
+court [field]
+shopping center [mall]
+department
+owner [landlord]
+statue
+town [village]
+tree
+school
+church
+store
+to sweep
+to warm up
+to mow the lawn [to cut the grass]
+to feed
+to dust
+to vacuum
+to water
+to take out the trash
+to make the bed
+to rent
+to support
+to close
+to share
+to know [be familiar with]
+to send
+to turn on
+to turn off
+to turn on [to light (a match)]
+someone [anyone]
+principal
+fun
+employee
+entrance
+news
+pair [couple]
+price
+sale
+agreeable [nice, pleasant]
+ample
+furnished
+cheap [inexpensive]
+expensive
+own
+serious
+useful
+to fasten
+seat belt
+gears
+hood
+rear-view mirror
+headlights
+brake pedal
+windshield wiper
+tire
+trunk
+windshield
+bumper
+fender
+pedestrian
+license plate
+automobile insurance
+horn
+traffic
+steering wheel
+oil
+seat
+highway [road]
+wheel
+traffic light [signal]
+fuel tank
+path [road]
+slow
+detour
+slow down
+two-way
+no entrance
+bridge
+one-way
+dangerous
+curve
+on board
+flight attendant
+ticket
+round-trip
+stopover [layover]
+baggage claim
+transfer [travel]
+flight
+airline
+airport
+airplane
+customs
+lodging
+sailboat
+bellhop
+destination
+excursion
+double room [hotel room with 2 beds]
+dingle room
+taxes
+directions
+arrival
+suitcase
+counter
+front desk
+waiting room
+exit; departure
+vaccine [vaccination]
+traveler
+visa
+passenger
+tourist
+cabin
+campground [camp site]
+bullfight
+subway station
+traffic circle [rotary]
+inn
+port
+tower
+plaza [town square]
+to board [e.g. an airplane]
+to have just
+to inform
+to suntan
+to fall (down)
+to exchange money
+to crash into [to collide with]
+to enjoy
+to be on vacation
+to be visiting
+to check baggage
+to spend
+to click on
+to wait in line
+to pack (the luggage)
+to forget
+to revise [to review]
+to get a passport
+to suggest
+to be guilty
+fresh water
+bill [money]
+ATM
+walk
+advice
+city block
+cash
+equipment
+corner
+west
+east
+brochure
+luxury
+night stand
+landscape
+painting
+surface
+credit card
+wide
+adventurous
+offered
+slippery
+beginning [start]
+end
+before
+after
+early
+late
+soon
+now
+during
+whenever [when]
+later
+time
+hour
+minute
+night [evening]
+second
+noon
+midnight
+during the morning [in the morning]
+during the evening [at night]
+during the afternoon [in the afternoon]
+in the morning [am]
+in the evening [pm]
+in the afternoon [pm]
+quarter past
+half past
+appointment [date]
+semester
+schedule
+clock [watch]
+How often...? [With what frequency...?]
+sometimes
+never
+often
+rarely
+every day
+always
+once in a while [sometimes]
+no longer
+Would you like to come with me to ...?
+I invite you ...
+Would you like ...?
+I would like ...
+Thanks, but I can't.
+Yes, I would love to.
+What a shame!
+invitation
+Maybe another day
+(At) What time is ...?
+it's one o'clock
+it's ten minutes to one
+(at) What time?
+it's two o'clock
+Right now!
+at four o'clock
+What time is it?
+at one o'clock
+backpack
+chalkboard
+pen
+marker
+scissors
+pencil sharpener
+folder
+printer
+screen
+keyboard
+algebra
+geometry
+music
+physical education
+computer science
+French
+Japanese
+Chinese
+Italian
+novel
+poem
+poetry
+magazine
+newspaper
+letter
+manual
+mail
+email
+piano
+to play the piano
+guitar
+to play the guitar
+drum set
+saxophone
+violin
+flute
+clarinet
+cassette
+radio-tape player
+radio [apparatus]
+compact disc
+auditorium
+office
+cafeteria
+gym
+museum
+park
+theater
+concert
+store
+airport
+bank
+bus station
+pharmacy [drug store]
+hotel
+church
+plaza [town square]
+synagogue
+(movie) theater
+wide
+old [ancient]
+enormous
+narrow [tight]
+formal
+informal [casual]
+luxurious
+modern
+ordinary
+simple
+traditional
+to ride a bike
+to skateboard
+to skate
+to ride
+to drive
+to visit
+to go for a walk
+to drive [conduct]
+to ride a horse
+(The) United States
+Spain
+Mexico
+Brazil
+Canada
+China
+Ecuador
+India
+Japan
+Peru
+Paraguay
+Uruguay
+(The) Dominican Republic
+rain
+snow
+sun
+degree
+ice
+cloud
+cloudy
+wind
+to snow
+to rain
+temperature
+storm
+outdoors
+suntan lotion
+sunglasses
+umbrella
+beach
+to sunbathe
+sea
+sand
+wave
+vacation
+to go scuba diving [to scuba dive]
+water skiing
+to go sailing
+to swim
+woods [forest]
+desert
+lake
+mountain
+river
+ocean
+tree
+flower
+plant
+pollution [contamination]
+season
+winter
+fall [autumn]
+summer
+spring [season]
+it is hot
+it is cool
+it is cold
+it is bad outside [the weather is bad]
+it is sunny
+it is windy
+the weather is nice
+it is sunny
+it is windy
+it's cloudy
+What is the weather like?
+cheap [inexpensive]
+expensive
+What size is it?
+purchase
+money
+dollar
+free [no cost]
+price
+discount [sale]
+bargain
+sale
+purse [wallet]
+bag
+elevator
+escalator
+currency [money]
+change
+cash
+credit card
+jewelry store
+bookstore
+stationery store
+pastry shop
+shoe store
+butcher shop
+(bread) bakery
+café
+supermarket
+shopping center [mall]
+sporting goods store
+market
+jewelry
+ring
+necklace
+bracelet
+clock [watch]
+earring
+dangling earrings
+pin [jewelry]
+chain
+How much does it cost?
+to buy
+to pay
+to sell
+to go shopping
+on sale
+to save [e.g. time, money]
+Where can I buy...?
+to bargain
+stamp [postage]
+carpet [rug]
+wardrobe [closet]
+bathtub
+dishwasher
+(kitchen) sink
+refrigerator
+blanket
+pillow
+toilet paper
+brush
+shampoo
+mirror
+soap
+toothpaste
+comb
+hairdryer
+towel
+shower
+bathtub
+soap opera
+news
+games [gameshow]
+sports program
+education program
+comedy program
+film [movie]
+horror film
+action film
+internet
+attachments
+bandwidth
+web browser
+to download
+web page
+laptop computer
+link
+search engine
+network [web]
+website
+mouth
+head
+face
+nose
+eye
+hair
+tooth
+lip
+tongue
+ear
+arm
+elbow
+finger
+toe
+hand
+heart
+neck
+back
+stomach
+throat
+shoulder
+wrist
+foot
+leg
+to feel like
+to be hot
+to be cold
+to be careful
+to be afraid
+to be in a hurry
+to be right
+to be sleepy
+to be lucky
+to rest
+to feel
+to hurt [to ache]
+to laugh
+to smile
+to hear
+to taste
+to fall asleep
+to lie down [to go to bed]
+to shave [oneself]
+to shower [to take a shower]
+to wash [oneself]
+to bathe [to take a bath]
+to dry (oneself)
+to comb (one's hair)
+to wash one's hair
+to brush one's teeth
+to smell
+to put on [e.g. clothes]
+to take off [e.g. clothes]
+to wake up [oneself]
+to get up
+to get dressed [to dress oneself]
+to say goodbye
+to go away
+to eat breakfast [oneself]
+city
+country
+world
+place
+town [village]
+community
+arrival
+highway
+traveler's check
+avenue
+street
+path [road]
+station
+parking
+map
+subway
+way [via]
+trip
+walking [on foot]
+arrival
+luggage
+baggage claim
+counter
+customs
+departure
+first class
+immigration
+ticket [e.g. airline]
+passport
+round trip ticket
+passenger
+here
+there
+(over) there
+above
+down [below]
+near
+far
+right [direction]
+left
+inside
+outside (of)
+north
+south
+west
+east
+to travel
+to leave [to go away]
+to visit
+to go for a walk
+to pack (the luggage)
+to confirm a reservation
+to board
+to fly
+to reserve
+easy
+difficult
+open
+closed
+quick
+slow
+new
+young
+same
+different
+alone
+dangerous
+safe [secure, confident]
+rare
+common
+terrible
+awesome [cool]
+horrible
+carefully
+indiscreetly
+easily
+happily
+frequently
+sadly
+slowly
+normally
+rapidly [quickly]
+recently
+calmly
+to open
+to close
+to receive
+to carry
+to enter
+to leave
+to love
+to hate
+to bother [to annoy]
+to delight
+to like
+to dislike
+large [big]
+long
+short [length]
+all
+none
+nothing
+something [anything]
+a little
+more
+less
+director
+secretary
+manager
+salesperson
+agent
+businessman
+businesswoman
+accountant
+editor
+receptionist
+teacher
+doctor
+counselor
+journalist
+programmer [e.g. computer]
+doctor [medic]
+lawyer
+nurse
+dentist
+police officer
+photographer
+engineer
+scientist
+guide
+flight attendant
+electrician
+architect
+carpenter
+firefighter
+veterinarian
+politician
+operator
+taxi driver
+sketch artist
+actress
+(ballet) dancer
+writer
+mechanic
+artisan [craftsperson]
+farmer
+shepherd(ess)
+to sing
+to draw
+to dance
+to work
+to take care of
+to take pictures [to take photos]
+to sell
+to paint
+to earn a living
+animal
+horse
+pig
+duck
+turkey
+chicken [hen]
+bull
+cow
+rooster
+cat
+dog
+bird
+fish
+bird
+turtle
+canary
+rabbit
+mouse
+penguin
+lion
+monkey
+elephant
+tiger
+bear
+gorilla
+camel
+llama
+snake
+to walk the dog
+to go to the zoo
+to feed
+What type of animal is it?
+to take care of
+to play [game, sport]
+to scratch
+Is it a domestic animal?
+to pet
+sports
+goal [e.g. to score a goal]
+team
+game
+field
+court [field]
+stadium
+swimming pool
+winner
+loser
+bat [e.g. baseball bat]
+ball
+helmet
+cap
+glove
+skates
+skateboard
+ball [baseball]
+goal [e.g. to score a goal]
+basketball [ball]
+skiing
+soccer
+football
+surfing
+tennis
+volleyball
+baseball [sport]
+hockey
+to play sports
+to win
+to lose
+to run
+to ride a bike
+to skateboard
+to lift weights
+to exercise
+to bowl
+arrival
+departure
+kiosk
+waiting room
+ticket [e.g. airline]
+round-trip
+single
+window [e.g airplane, ticket]
+train
+bag
+track [rail]
+porter
+luggage
+suitcase
+platform [e.g. train]
+busy [occupied]
+seat
+free [e.g. a free country]
+aisle
+sleeping car [e.g. on a train]
+to transfer
+waiter (waitress)
+to set the table
+waiter
+waitress
+to be hungry
+I want to eat ...
+to be thirsty
+glass
+salt
+pepper [seasoning]
+cup
+saucer
+plate
+fork
+knife
+teaspoon
+napkin
+check [bill]
+credit card
+money
+tip
+to fry
+meat
+beef
+steak
+veal
+pig
+lamb
+fish
+shrimp
+clam
+lobster
+rice
+artichoke
+garlic
+corn
+green peas
+oil
+public telephone
+headphones
+slot [e.g. coin slot]
+keyboard
+key [e.g instrument or keyboard]
+cell phone
+to leave a message
+answering machine
+phone book
+phone number
+country code
+area code
+to make a phone call
+pick up the phone
+enter the phone card
+wait for the tone
+enter the number
+to answer
+store
+clothing
+coat
+suit
+raincoat
+shop window
+underwear [interior clothing]
+socks
+jacket
+scarf
+handkerchief
+blouse
+dress
+pocket
+button
+belt
+sweater
+sleeve
+pants
+wide
+narrow [tight]
+shoes
+heel [of a shoe]
+boots
+sandal
+ear
+inner ear
+earring
+dangling earrings
+neck
+chain
+wrist
+finger
+ring
+clock [watch]
+bracelet
+gold chain
+market
+bundle [small package]
+groceries
+grocery store
+supermarket
+superstore
+(bread) bakery
+butcher shop
+fish store
+seafood
+pastry shop
+vegetable stand [greengrocer]
+vegetables
+vegetable
+fruit store [fruit stand]
+aisle
+cart
+chess
+board [e.g. game board]
+checkers
+domino
+token [game piece]
+crossword puzzle
+stamp [postage]
+coin [currency]
+game
+foosball
+lake
+cage
+monkey
+zoo
+mime
+clown
+balloon
+roller coaster
+horse [e.g. on a carousel]
+carousel
+ticket booth
+amusement park [theme park]
+to the right
+to the left
+hotel
+client [customer]
+guest
+receptionist
+reception
+room
+room
+note card
+card
+key
+elevator
+elevator
+bellhop
+wardrobe [closet]
+hanger
+hanger
+sofa [couch]
+air conditioning
+pillow
+sheet
+blanket
+blanket
+bed
+TV set
+bathroom
+shower
+soap
+basin [(bathroom) sink]
+bathtub
+toilet
+towel
+pilot
+copilot
+commander
+airplane
+crew
+flight attendant
+compartment
+exit
+emergency
+signal [sign]
+cabin
+no smoking
+seat belt
+seat
+window [e.g airplane, ticket]
+aisle
+seat-back
+mask
+oxygen
+vest
+toilets
+busy [occupied]
+headphones
+headphones
+tray
+cart
+(small) airplane
+helicopter
+jet [jetliner]
+control tower
+terminal
+passenger
+runway
+take off [airplane]
+landing
+geography
+mountain
+high plateau
+peak
+plain
+mountain range
+height [altitude]
+altitude
+plateau
+lake
+valley
+body
+shoulder
+chest
+elbow
+wrist
+arm
+finger
+knee
+leg
+ankle
+foot
+to hurt [to damage]
+to hurt oneself [to get hurt]
+damage [harm]
+face
+forehead
+cheek
+nose
+eye
+inner ear
+ear
+lip
+ambulance
+stretcher
+life guard [EMT]
+hospital
+reception
+form [e.g. fill out a form]
+crutch
+wheelchair
+nurse
+x-ray
+bandage
+blood pressure
+pulse
+x-ray
+fracture
+city
+skyscraper
+office
+factory
+building
+plan [(city) map]
+street
+avenue
+boulevard
+plaza [town square]
+traffic light [signal]
+intersection
+corner
+pedestrian
+sidewalk
+bus
+bus
+truck
+subway
+turnstile
+escalator
+field
+peasant
+farm
+cottage [hamlet]
+town [village]
+to plant [to sow]
+planting
+wheat
+corn
+harvest
+to harvest
+livestock
+cow
+chicken [hen]
+pig
+pear
+pear tree
+apple
+apple tree
+orchard
+vegetable
+kitchen
+oven
+microwave oven
+stove
+burner
+freezer
+refrigerator
+refrigerator
+to fry
+frying pan
+to boil
+pot [e.g. for cooking]
+pan [pot, casserole dish]
+to stir
+grill
+to roast
+groceries
+lettuce
+cucumber
+onion
+carrot
+potato
+potato
+lime
+lemon
+grapefruit
+grape
+salt
+pepper [seasoning]
+sugar
+beef
+chicken [food]
+rib
+sausage
+sausage
+porkchop
+veal
+lamb
+to clean
+to peel
+to grate
+to slice
+slice
+to cut
+to add
+to add
+small bit
+to cover
+pepper
+avocado
+garlic
+banana [plantain]
+banana
+papaya
+coconut
+watermelon
+oil
+butter
+rice
+bean
+beans
+seafood
+mussel
+clam
+squid
+lobster
+shrimp
+shrimp
+fish
+driver [conductor]
+convertible
+convertible
+coupe
+sedan
+sports
+driver's license
+license
+seat belt
+windshield
+hood
+light
+trunk [e.g. of a car]
+trunk [e.g. of a car]
+door
+tire
+tire
+horn
+horn
+turn signal [blinker]
+spare tire
+to drive
+sign
+highway
+(divided) highway
+toll booth
+shelter
+lane
+velocity [speed]
+entrance
+exit
+city block
+intersection [street entrance]
+parking meter
+to park
+to park
+hairdresser [barber]
+hair salon
+barber
+comb
+part [e.g. in hair]
+hair
+hair
+razor [penknife, blade]
+shampoo
+scissors
+blow dryer
+dry cleaner's
+dry cleaning
+laundry [dirty clothes]
+to iron
+wool
+cotton
+washing machine
+dirty
+clean
+mail
+post office
+letter
+envelope
+post card
+stamp [postage]
+stamp
+mailbox
+window [e.g airplane, ticket]
+bank
+checking account
+coin [currency]
+money
+cash
+cashier
+to endorse
+traveler's check
+to exchange
+money changer
+money exchange
+loose
+birthday
+happy birthday
+candles
+cake
+cake
+wedding
+lady
+honor
+girlfriend
+boyfriend
+gift
+Christmas
+tree
+Merry Christmas
+New Year's Day
+Happy New Year!
+camel
+straw
+the three wisemen [the Magi]
+menorah
+Hanukkah [Chanukah]
+office
+secretary
+bookkeeper [accountant]
+programmer [e.g. computer]
+manager
+engineer
+business person
+cashier
+official [clerk]
+mayor
+architect
+court [of law]
+judge
+lawyer
+law firm
+electrician
+plumber
+plumber
+carpenter
+mason
+position [job]
+part time [noun]
+human resources
+application
+employment [job]
+employee
+interviewer
+to interview
+candidate
+applicant [candidate]
+to remember
+to lie down [to go to bed]
+to shave [oneself]
+to bathe [to take a bath]
+to brush one's hair
+to brush one's teeth
+to wake up [oneself]
+to fall asleep
+to shower [to take a shower]
+to get angry
+to leave [to go away]
+to wash one's face
+to get up
+to be called [to be named]
+to put on makeup
+to comb (one's hair)
+to put on [e.g. clothes]
+to become annoying
+to worry
+to try on
+to stay
+to take off [e.g. clothes]
+to dry (oneself)
+to sit down
+to feel
+to get dressed [to dress oneself]
+before
+after
+afterwards [later]
+during
+then
+then
+later on
+finally
+something [anything]
+someone [anyone]
+some [any]
+never
+nothing
+no one [nobody]
+neither ... nor ...
+none
+never
+either... or
+always
+also [too]
+neither
+bathroom
+bathroom
+shampoo
+shaving cream
+shower
+mirror
+toilet
+soap
+basin [(bathroom) sink]
+makeup
+toothpaste
+towel
+to bore
+to love [to really like]
+to need [to lack]
+to fascinate
+to be important [to matter]
+to bother [to annoy]
+to fit
+alarm clock
+slipper
+routine
+daily
+during the morning [in the morning]
+during the evening [at night]
+during the afternoon [in the afternoon]
+I need
+Relax
+don't worry
+I love
+It bothers me
+to meet up with
+waiter
+waitress
+food
+check [bill]
+owner [landlord]
+menu
+tip
+lunch
+dinner
+breakfast
+appetizers [hors d'oevres]
+main course [main dish]
+delicious
+delicious
+tasty
+banana
+fruit
+lemon
+apple
+peach
+orange [fruit]
+pear
+grape
+peas
+onion
+mushroom
+salad
+asparagus
+beans
+lettuce
+corn
+potato
+potato
+tomato
+vegetable
+carrot
+tuna
+steak
+shrimp
+meat
+beef
+porkchop
+hamburger
+ham
+lobster
+shellfish
+turkey
+fish
+chicken [food]
+sausage
+salmon
+oil
+garlic
+rice
+sugar
+cereal
+egg
+butter
+margarine
+mayonnaise
+bread
+toast
+cheese
+salt
+sandwich
+soup
+vinegar
+yogurt
+water
+drink [beverage]
+coffee
+juice
+milk
+soft drink
+tea
+to choose
+to have a snack
+to die
+to ask for [to order]
+to try [to taste]
+to recommend
+to serve
+manager
+gentleman
+like
+more than
+less than
+(the) best
+the oldest
+the youngest
+(the) worst
+better
+worse
+anniversary
+wedding
+birthday
+holiday
+party
+guest
+Christmas
+fifteenth birthday
+surprise
+to drink a toast [to toast]
+to celebrate
+to have fun [to enjoy oneself]
+to invite
+to have a good time
+to have a bad time
+to give a gift
+to laugh
+to relax
+to smile
+to surprise
+sweets [candy]
+custard [Spanish dessert]
+cookie
+ice cream
+cake
+chocolate cake
+dessert
+friendship
+love
+divorce
+marital status [civil status]
+marriage
+pair [couple]
+newlywed
+to get married
+To get engaged
+to get divorced (from)
+to fall in love
+to get along
+to not get along
+to hate
+to break up with
+to go out with
+to separate (from)
+to have an appointment [to have a date]
+married
+divorced
+together
+separated
+single
+widowed
+adolescence
+age
+stages of life
+youth
+maturity
+death
+birth
+childhood
+old age
+to change
+to graduate
+to retire
+to be born
+happiness
+kiss
+with me
+with you
+congratulations
+congratulations
+happy birthday
+soul
+alter
+angel
+sugar skull
+cemetery
+kitchen
+costume
+mouth
+arm
+head
+heart
+neck
+body
+finger
+toe
+stomach
+throat
+bone
+nose
+inner ear
+eye
+ear
+foot
+leg
+knee
+ankle
+accident
+antibiotic
+aspirin
+clinic
+(doctor's) office
+dentist
+doctor
+pain
+headache
+nurse
+physical exam
+pharmacy [drug store]
+flu
+hospital
+infection
+medicine
+medication
+operation
+patient
+pill
+x-ray
+prescription [recipe]
+cold
+emergency room
+health
+symptom
+cough
+to fall (down)
+to damage [to harm]
+to bump into
+to hurt [to ache]
+to get sick
+to be sick
+to sneeze
+to hurt oneself [to get hurt]
+to forget
+to give an injection [to give a shot]
+to prohibit [to forbid]
+to prescribe
+to break
+to break one's leg
+to have a tooth removed
+to be allergic
+to suffer an illness
+to have pain
+to have a fever
+to take someone's temperature
+to sprain
+to cough
+often
+on time
+sometimes
+besides [furthermore]
+barely [scarcely]
+like this [this way]
+enough [quite]
+almost
+frequently
+as a child
+once in a while [sometimes]
+slowly
+less
+many times [often]
+little [not much]
+at least
+soon
+every day
+quickly [rapidly]
+congested
+pregnant
+serious [grave]
+dizzy [nauseated]
+medical
+healthy
+healthy
+while
+cinnamon
+honey
+stubborn
+app [application]
+digital camera
+video camera
+channel
+charger
+Internet café [cyber café]
+remote control
+voice mail
+compact disc
+stereo
+radio [apparatus]
+CD player
+MP3 player
+cell phone
+TV set
+to turn off
+to function [to work]
+to call
+to turn on [e.g. an appliance]
+to turn on
+to ring [to sound]
+not working [out of order]
+slow
+full
+file
+@ [at symbol]
+blog
+browser
+computer
+laptop computer
+wireless connection
+email address
+printer
+internet
+text message
+monitor
+home page
+screen
+software
+mouse
+network [web]
+DVD player
+website
+keyboard
+to erase
+to chat [online]
+to download
+to scan
+to record
+to save
+to print
+to surf the Internet
+highway
+trunk [e.g. of a car]
+street
+highway [road]
+hood
+car
+car
+traffic
+traffic
+garage
+workshop
+gasoline
+gas station
+driver's license
+tire
+mechanic
+GPS
+windshield
+police force
+speed limit
+steering wheel
+to start [e.g. a car]
+to fix
+to get off (of)
+to drive [conduct]
+to drive
+to park
+to fill
+fuel tank
+to stop
+to check the oil
+to get on
+to hug
+to help
+to kiss
+to meet
+to greet
+around here
+for example
+that's why
+finally
+to deliver [to turn in]
+attempt
+news
+project
+to get better [to recover]
+suburbs [outskirts]
+rent
+housekeeper
+neighborhood
+apartment building
+neighbor
+housing
+to rent
+to move [residence]
+attic
+balcony
+kitchen
+dining room
+bedroom
+entrance
+stairway [stairs,staircase]
+garage
+garden
+office
+hallway
+patio
+living room
+basement
+carpet [rug]
+pillow
+wardrobe [closet]
+poster
+dresser
+curtain
+picture
+bookcase
+lamp
+light
+blanket
+tray table [end table]
+night stand
+furniture
+wall
+painting
+armchair
+sofa [couch]
+coffee pot
+stove
+stove
+freezer
+appliances
+oven
+microwave oven
+washer [washing machine]
+dishwasher
+refrigerator
+clothes dryer
+toaster
+to clean up [to straighten up]
+to sweep the floor
+to cook
+to dirty
+to make the bed
+to do household chores
+to wash
+to wash the dishes
+to clean the house
+to vacuum
+to iron the clothes
+to set the table
+to clear the table
+to dust
+to take out the trash
+to dust the furniture
+to advise [suggest]
+to insist
+to order [to command]
+to recommend
+to beg
+to suggest
+it's good that
+it's important that
+it's bad that
+it's better that
+it's necessary that
+it's urgent that
+wineglass
+spoon
+knife
+plate
+napkin
+cup
+fork
+glass
+feather duster
+I want
+I need
+to eat
+to go
+to see [to watch]
+to speak [to talk]
+with you
+now
+soon
+in order to
+more
+tonight [this evening]
+I'm going to
+I would like ...
+to visit
+to invite
+to help
+to call
+again [another time]
+with
+next
+this
+week
+tomorrow
+I have to
+I can
+to study
+to return [to come back]
+to be [location, conditions]
+to work
+today
+week
+weekend
+month
+year
+night [evening]
+much
+I like ...
+I'm sorry
+to travel
+to spend (time with)
+to cook
+to drink
+until
+something [anything]
+here
+a while
+each [every]
+day
+you want
+you need
+When?
+with me
+but
+or
+you are going to
+you would like
+to learn
+because
+Why?
+(over) there
+you have to
+you can
+to finish [to end]
+Right now!
+afternoon
+with him
+you like
+before
+What?
+to walk
+to do
+to have breakfast
+we want
+we need
+as soon as possible
+our
+to drive
+to rest
+we are going to
+we would like
+to find
+to begin
+to buy
+to spend
+we have to
+we can
+to leave
+without
+early
+with her
+we like
+we love
+after
+Where?
+to have dinner
+later on
+to wait for
+to look for
+to forget
+to kiss
+to know [be familiar with]
+to listen
+you (all) want [they want]
+you (all) need
+you (all) can
+with us
+summer
+with you (all)
+you (all) have to
+you (all) are going to
+to arrive
+to pay
+always
+if
+you (all) like
+you (all) would like
+to read
+to live
+to practice
+to order [to arrange]
+to be able to
+to sing
+very
+also [too]
+winter
+well
+to try [to taste]
+Who? [singular]
+all
+you (all) would like
+only [just]
+the day after tomorrow
+hour
+no one [nobody]
+almost
+with them
+perhaps [maybe]
+maybe [perhaps]
+brother-in-law
+sister-in-law
+stepsister
+stepbrother
+step-children
+stepmother
+stepfather
+half-brother
+daughter-in-law
+father-in-law
+mother-in-law
+son-in-law
+grandparents
+siblings
+uncle(s) and aunt(s)
+cousins
+grandchildren
+mother
+father
+nephew
+niece
+children
+to act [to perform]
+to save [e.g. time, money]
+to base
+to change
+to compete
+to give permission
+to discover
+to argue
+to deliver [to turn in]
+to play [game, sport]
+to fill
+to get along
+to improve
+to get into trouble
+to move [residence]
+to look like [to seem like]
+to fight
+to permit
+to remember
+to get a good grade
+to jump rope
+to dream
+to go up [e.g. a street, stairs]
+to fly
+to ask
+to get married
+family tree
+neighborhood
+scientist
+(short) story
+school
+young man (woman)
+youth
+childhood
+journalist
+character [person of importance]
+politician
+break
+memory
+member [partner]
+comics
+athlete
+pet [mascot]
+true or false
+asleep
+on time
+What were you like?
+as a child
+there was(were)
+liar [lying]
+still
+friendship
+love
+shine
+caring [affection]
+punishment
+jealousy
+behavior
+individualism
+bond
+hatred
+reciprocity
+feeling
+godchild
+wife
+husband
+children
+step-children
+godmother
+husband
+woman; wife
+girlfriend
+boyfriend
+stepfather
+stepmother
+godfather
+animated [lively, excited]
+clean
+controlling
+to become exasperated
+hard [tough]
+selfish
+in love
+envious
+demanding
+fragile
+unstable
+unhappy
+inseparable
+intolerant
+perfectionist
+permissive
+helpful
+sad
+true [real, sincere]
+to hug
+to accept
+to strengthen
+to love
+to lengthen [to drag out]
+to appear [to show up]
+to pacify
+to kiss
+to punish
+to behave
+to commit oneself
+to discipline
+to get angry
+to get angry
+to entertain
+to radiate
+to remain close by
+to fight
+to become; to put on clothing
+to behave
+to be preoccupied (with) [to worry about]
+to prohibit [to forbid]
+to complain
+to recover [to get better]
+to get together [to meet]
+to break
+to go out
+to greet
+to follow
+to feel; to be sorry
+to tolerate
+ups and downs
+often
+commitment
+living together
+to give advice
+to discharge
+the others
+heart attack
+to be admitted
+worry, concern
+together
+lie
+to spend time
+hallway
+perennial, evergreen; constant
+little by little
+opening
+as a whole
+growth
+democracy
+human rights
+development
+dictatorship
+discrimination
+drug
+government
+independence
+investor
+freedom
+fight [struggle]
+improvements, progress
+drug trafficking
+business
+standard of living
+population
+power
+politics
+recovery
+resource
+rich
+archaeological site
+ship
+physical punishment
+slavery
+exploitation
+humiliation
+mistreatment
+labor, workforce
+oppression
+economic or military power
+respect
+suffering
+vassal
+abuse
+violation; rape
+dictator
+slave
+trafficker
+emerging
+marginalized, outcast
+oppressed
+politician
+favored
+distributed
+to tell, to count
+to begin
+to rise up against
+to fight [to struggle]
+to deprive
+to resolve [to solve]
+to respect
+to endure
+according to
+picture
+illness [sickness]
+fact
+a developing country

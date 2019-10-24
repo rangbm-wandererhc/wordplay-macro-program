@@ -1,0 +1,2196 @@
+﻿(el) ascensor
+(el) baño
+(la) cerca
+(la) chimenea
+(el) comedor
+(el) corredor
+(el) dormitorio
+(la) escalera
+(la) habitación
+(la) recámara
+(la) sala
+(la) cocina
+(el) patio
+(el) jardín
+(la) alacena
+(la) alfombra
+(la) almohada
+(el) aparato
+(el) armario
+(la) aspiradora
+(la) bañera
+(la) cafetera
+(el) calentador
+(la) cama
+(el) cepillo
+(la) cómoda
+(la) cortina
+(el) cuadro
+(la) ducha
+(la) escoba
+(el) espejo
+(el) estante
+(la) estufa
+(el) fregadero
+(el) gabinete
+(el) horno
+(el) microondas
+(el) inodoro
+(el) lavabo
+(la) lavadora
+(el) lavaplatos
+(la) mesa
+(el) secador de pelo
+(la) secadora
+(el) sillón
+(el) arbusto
+(la) cancha
+(el) centro comercial
+(el) departamento
+(el/la) dueño(a)
+(la) estatua
+(el) pueblo
+(el) árbol
+(la) escuela
+(la) iglesia
+(la) tienda
+barrer
+calentarse
+cortar el césped
+dar de comer
+desempolvar
+pasar la aspiradora
+regar
+sacar la basura
+tender la cama
+alquilar
+apoyar
+cerrar
+compartir
+conocer
+enviar
+prender
+apagar
+encender
+alguien
+(el/la) director(a)
+(la) diversión
+(el/la) empleado(a)
+(la) entrada
+(las) noticias
+(la) pareja
+(el) precio
+(la) venta
+agradable
+amplio(a)
+amueblado(a)
+barato(a)
+caro(a)
+propio(a)
+serio(a)
+útil
+abrocharse
+(el) cinturón de seguridad
+(los) cambios
+(el) capó
+(el) espejo retrovisor
+(los) faros
+(el) freno
+(el) limpiaparabrisas
+(la) llanta
+(el) maletero
+(el) parabrisas
+(el) parachoques
+(el) guardafangos
+(el/la) peatón(ona)
+(la) placa
+(el) seguro automovilístico
+(la) bocina
+(el) tránsito
+(el) volante
+(el) aceite
+(el) asiento
+(la) carretera
+(la) rueda
+(el) semáforo
+(el) tanque
+(el) camino
+despacio
+(la) desviación
+disminuya la velocidad
+doble sentido
+no hay paso
+(el) puente
+(una) solo sentido
+peligroso(a)
+(la) curva
+abordo
+(el/la) asistente de vuelo
+(el) boleto
+de ida y vuelta
+(la) escala
+(el) reclamo de equipaje
+(el) transbordo
+(el) vuelo
+(la) aerolínea
+(el) aeropuerto
+(el) avión
+(la) aduana
+(el) alojamiento
+barco de vela
+(el) botones
+(el) destino
+(la) excursión
+(la) habitación doble
+(la) habitación secilla
+(los) impuestos
+(las) instrucciones
+(la) llegada
+(la) maleta
+(el) mostrador
+(la) recepción
+(la) sala de espera
+(la) salida
+(la) vacuna
+(el/la) viajero(a)
+(la) visa
+(el/la) pasajero(a)
+(el/la) turista
+(la) cabaña
+(el) campamento
+(la) corrida de toros
+(la) estación de metro
+(la) glorieta
+(el) parador
+(el) puerto
+(la) torre
+(la) plaza
+abordar
+acabar de
+avisar
+broncearse
+caerse
+cambiar dinero
+chocar
+disfrutar (de)
+estar de vacaciones
+estar de visita
+facturar el equipaje
+gastar
+hacer clic en
+hacer cola
+hacer las maletas
+olvidar
+revisar
+sacar el pasaporte
+sugerir
+tener la culpa
+(el) agua dulce
+(el) billete
+(el) cajero automático
+(la) caminata
+(el) consejo
+(la) cuadra
+(el) dinero en efectivo
+(el) equipo
+(la) esquina
+(el) oeste
+(el) este
+(el) folleto
+(el) lujo
+(la) mesita de noche
+(el) paisaje
+(la) pintura
+(la) superficie
+(la) tarjeta de crédito
+ancho(a)
+aventurero(a)
+ofrecido
+resbaloso(a)
+(el) comienzo
+(el) fin
+antes (de)
+después (de)
+temprano(a)
+tarde
+pronto
+ahora
+durante
+cuando
+luego
+(el) tiempo
+(la) hora
+(el) minuto
+(la) noche
+(el) segundo
+(el) mediodía
+(la) medianoche
+por la mañana
+por la noche
+por la tarde
+de la mañana
+de la noche
+de la tarde
+y cuarto
+y media
+(la) cita
+(el) semestre
+(el) horario
+(el) reloj
+¿Con qué frecuencia...?
+a veces
+nunca
+mucho
+rara vez
+todos los días
+siempre
+de vez en cuando
+ya no
+¿Quieres acompañarme a ...?
+Te invito ...
+¿Te gustaría ...?
+Me gustaría ...
+Gracias, pero no puedo.
+Sí, me encantaría.
+¡Qué lástima!
+(la) invitación
+Tal vez otro día
+¿A qué hora es ...?
+es la una
+es la una menos diez
+¿A qué hora?
+son las dos
+¡Ahora mismo!
+a las cuatro
+¿Qué hora es?
+a la una
+(la) mochila
+(el) pizarrón
+(la) pluma
+(el) marcador
+(las) tijeras
+(el) sacapuntas
+(la) carpeta
+(la) impresora
+(la) pantalla
+(el) teclado
+(el) álgebra
+(la) geometría
+(la) música
+(la) educación física
+(la) computación
+(el) francés
+(el) japonés
+(el) chino
+(el) italiano
+(la) novela
+(el) poema
+(la) poesía
+(la) revista
+(el) periódico
+(la) carta
+(el) manual
+(el) correo
+(el) correo electrónico
+(el) piano
+tocar el piano
+(la) guitarra
+tocar la guitarra
+(la) batería
+(el) saxofón
+(el) violín
+(la) flauta
+(el) clarinete
+(el) casete
+(el) radiocasete
+(el) radio
+(el) disco compacto
+(el) auditorio
+(la) oficina
+(la) cafetería
+(el) gimnasio
+(el) museo
+(el) parque
+(el) teatro
+(el) concierto
+(la) tienda
+(el) aeropuerto
+(el) banco
+(la) estación de autobuses
+(la) farmacia
+(el) hotel
+(la) iglesia
+(la) plaza
+(la) sinagoga
+(el) cine
+ancho(a)
+antiguo(a)
+enorme
+estrecho(a)
+formal
+informal
+lujoso(a)
+moderno(a)
+ordinario(a)
+sencillo(a)
+tradicional
+andar en bicicleta
+andar en patineta
+patinar
+montar
+manejar
+visitar
+pasear
+conducir
+montar a caballo
+(los) Estados Unidos
+España
+México
+Brasil
+Canadá
+China
+(el) Ecuador
+India
+(el) Japón
+Perú
+(el) Paraguay
+(el) Uruguay
+(la) República Dominicana
+(la) lluvia
+(la) nieve
+(el) sol
+(el) grado
+(el) hielo
+(la) nube
+nublado(a)
+(el) viento
+nevar
+llover
+(la) temperatura
+(la) tormenta
+al aire libre
+(el) bronceador
+(las) gafas de sol
+(el) paraguas
+(la) playa
+tomar el sol
+(el) mar
+(la) arena
+(la) ola
+(las) vacaciones
+bucear
+(el) esquí acuático
+pasear en velero
+nadar
+(el) bosque
+(el) desierto
+(el) lago
+(la) montaña
+(el) río
+(el) océano
+(el) árbol
+(la) flor
+(la) planta
+(la) contaminación
+(la) estación
+(el) invierno
+(el) otoño
+(el) verano
+(la) primavera
+hace calor
+hace fresco
+hace frío
+hace mal tiempo
+hace sol
+hace viento
+hace buen tiempo
+hay sol
+hay viento
+está nublado
+¿Qué tiempo hace?
+barato(a)
+caro(a)
+¿Qué talla es?
+(la) compra
+(el) dinero
+(el) dólar
+gratis
+(el) precio
+(la) rebaja
+(la) ganga
+(la) venta
+(la) cartera
+(la) bolsa
+(el) ascensor
+(la) escalera automática
+(la) moneda
+(el) cambio
+(el) efectivo
+(la) tarjeta de crédito
+(la) joyería
+(la) librería
+(la) papelería
+(la) pastelería
+(la) zapatería
+(la) carnicería
+(la) panadería
+(el) café
+(el) supermercado
+(el) centro comercial
+(la) tienda de deportes
+(el) mercado
+(las) joyas
+(el) anillo
+(el) collar
+(la) pulsera
+(el) reloj
+(el) arete
+(los) pendientes
+(el) prendedor
+(la) cadena
+¿Cuánto cuesta?
+comprar
+pagar
+vender
+ir de compras
+en venta
+ahorrar
+¿Dónde puedo comprar...?
+regatear
+(el) sello
+(la) alfombra
+(el) armario
+(la) tina
+(el) lavaplatos
+(el) fregadero
+(la) nevera
+(la) manta
+(la) almohada
+(el) papel higiénico
+(el) cepillo
+(el) champú
+(el) espejo
+(el) jabón
+(la) pasta de dientes
+(el) peine
+(el) secador de pelo
+(la) toalla
+(la) ducha
+(la) bañera
+(la) telenovela
+(las) noticias
+(los) concursos
+(el) programa deportivo
+(el) programa educativo
+(el) programa cómico
+(la) película
+(la) película de terror
+(la) película de aventura
+(la) internet
+(los) archivos adjuntos
+(el) ancho de banda
+(el) navegador
+descargar
+(la) página web
+(el) equipo portátil
+(el) enlace
+(el) motor de búsqueda
+(la) red
+(el) sitio de web
+(la) boca
+(la) cabeza
+(la) cara
+(la) nariz
+(el) ojo
+(el) pelo
+(el) diente
+(el) labio
+(la) lengua
+(la) oreja
+(el) brazo
+(el) codo
+(el) dedo
+(el) dedo del pie
+(la) mano
+(el) corazón
+(el) cuello
+(la) espalda
+(el) estómago
+(la) garganta
+(el) hombro
+(la) muñeca
+(el) pie
+(la) pierna
+tener ganas de
+tener calor
+tener frío
+tener cuidado
+tener miedo
+tener prisa
+tener razón
+tener sueño
+tener suerte
+descansar
+sentirse
+doler
+reír
+sonreírse
+oír
+saborear
+dormirse
+acostarse
+afeitarse
+ducharse
+lavarse
+bañarse
+secarse
+peinarse
+lavarse la cabeza
+lavarse los dientes
+oler a
+ponerse
+quitarse
+despertarse
+levantarse
+vestirse
+despedirse
+marcharse
+desayunarse
+(la) ciudad
+(el) país
+(el) mundo
+(el) lugar
+(el) pueblo
+(la) comunidad
+(la) entrada
+(la) autopista
+(el) cheque de viajero
+(la) avenida
+(la) calle
+(el) camino
+(la) estación
+(el) estacionamiento
+(el) mapa
+(el) metro
+vía
+(el) viaje
+a pie
+(la) llegada
+(el) equipaje
+(la) terminal del equipaje
+(el) mostrador
+(la) aduana
+(la) salida
+(la) primera clase
+(la) inmigración
+(el) billete
+(el) pasaporte
+(la) boleta ida y vuelta
+(el/la) pasajero(a)
+aquí
+allí
+allá
+arriba
+abajo
+cerca (de)
+lejos (de)
+derecha
+(la) izquierda
+dentro (de)
+fuera (de)
+(el) norte
+(el) sur
+(el) oeste
+(el) este
+viajar
+irse
+visitar
+pasear
+hacer las maletas
+confirmar una reservación
+embarcar
+volar
+reservar
+fácil
+difícil
+abierto(a)
+cerrado(a)
+rápido(a)
+lento(a)
+nuevo(a)
+joven
+mismo(a)
+diferente
+solo(a)
+peligroso(a)
+seguro(a)
+raro(a)
+común
+terrible
+chévere
+horrible
+cuidadosamente
+imprudentemente
+fácilmente
+felizmente
+frecuentemente
+tristemente
+lentamente
+normalmente
+rápidamente
+recientemente
+tranquilamente
+abrir
+cerrar
+recibir
+llevar
+entrar
+salir
+amar
+odiar
+molestar
+encantar
+caer bien
+caer mal
+grande
+largo(a)
+corto(a)
+todo(a,os,as)
+ninguno(a)
+nada
+algo
+poco
+más
+menos
+(el/la) director(a)
+(el/la) secretario(a)
+(el/la) gerente
+(el/la) vendedor(a)
+(el/la) agente(a)
+(el) hombre de negocios
+(la) mujer de negocios
+(el/la) contador(a)
+(el/la) editor(a)
+(el/la) recepcionista
+(el/la) maestro(a)
+(el/la) doctor(a)
+(el/la) consejero(a)
+(el/la) periodista
+(el/la) programador(a)
+(el/la) médico(a)
+(el/la) abogado(a)
+(el/la) enfermero(a)
+(el/la) dentista
+(el/la) policía
+(el/la) fotógrafo(a)
+(el/la) ingeniero(a)
+(el/la) científico(a)
+(el/la) guía
+(el/la) aeromozo(a)
+(el/la) electricista
+(el/la) arquitecto(a)
+(el/la) carpintero(a)
+(el/la) bombero(a)
+(el/la) veterinario(a)
+(el/la) político(a)
+(el/la) operador(a)
+(el/la) taxista
+dibujante
+(la) actriz
+(el/la) bailarín(ina)
+(el/la) escritor(a)
+(el/la) mecánico(a)
+(el/la) artesano(a)
+(el/la) ganadero(a)
+(el/la) pastor(a)
+cantar
+dibujar
+bailar
+trabajar
+cuidar
+sacar fotos
+vender
+pintar
+ganarse la vida
+(el) animal
+(el) caballo
+(el) cerdo
+(el) pato
+(el) pavo
+(la) gallina
+(el) toro
+(la) vaca
+(el) gallo
+(el/la) gato(a)
+(el/la) perro(a)
+(el) pájaro
+(el) pez
+(el) ave
+(la) tortuga
+(la) canaria
+(el) conejo
+(el) ratón
+(el) pingüino
+(el) león
+(el) mono
+(el) elefante
+(el) tigre
+(el) oso
+(el) gorila
+(el/la) camello(a)
+(la) llama
+(la) serpiente
+caminar con el perro
+ir al zoo
+alimentar
+Qué tipo de animal es?
+cuidar
+jugar
+arañar
+Es un animal doméstico?
+acariciar
+(los) deportes
+(el) gol
+(el) equipo
+(el) partido
+(el) campo
+(la) cancha
+(el) estadio
+(la) piscina
+(el/la) ganador(a)
+(el) perdedor
+(el) bate
+(la) bola
+(el) casco
+(el) gorro
+(el) guante
+(los) patines
+(la) patineta
+(la) pelota
+(el) gol
+(el) baloncesto
+(el) esquí
+(el) fútbol
+(el) fútbol americano
+(el) surfing
+(el) tenis
+(el) voleibol
+(el) béisbol
+(el) hockey
+practicar deportes
+ganar
+perder
+correr
+andar en bicicleta
+andar en patineta
+levantar pesas
+hacer ejercicio
+jugar boliche
+(la) llegada
+(la) salida
+(el) quiosco
+(la) sala de espera
+(el) billete
+de ida y vuelta
+sencillo(a)
+(la) ventanilla
+(el) tren
+(la) bolsa
+(la) vía
+(el/la) maletero(a)
+(el) equipaje
+(la) maleta
+(el) andén
+ocupado(a)
+(el) asiento
+libre
+(el) pasillo
+(el) cochecama
+transbordar
+(el/la) mesero(a)
+poner la mesa
+(el) camarero
+(la) camarera
+tener hambre
+Quiero comer ...
+tener sed
+(el) vaso
+(la) sal
+(la) pimienta
+(la) taza
+(el) platillo
+(el) plato
+(el) tenedor
+(el) cuchillo
+(la) cucharilla
+(la) servilleta
+(la) cuenta
+(la) tarjeta de crédito
+(el) dinero
+(la) propina
+freír
+(la) carne
+(la) carne de res
+(el) bistec
+(la) ternera
+(el) cerdo
+(el) cordero
+(el) pescado
+(los) camarones
+(la) almeja
+(la) langosta
+(el) arroz
+(la) alcachofa
+(el) ajo
+(el) maíz
+(los) guisantes
+(el) aceite
+(el) teléfono público
+(los) auriculares
+(la) ranura
+(el) teclado
+(la) tecla
+(el) teléfono celular
+dejar un mensaje
+(el) contestador automático
+(la) guía telefónica
+(el) numero de teléfono
+(el) prefijo de país
+(la) clave de área
+hacer una llamada telefónica
+descuelga el teléfono
+introduce la tarjeta telefónica
+espera el tono
+marca el número
+contestar
+(la) tienda
+(la) ropa
+(el) abrigo
+(el) traje
+(el) impermeable
+(el) escaparate
+(la) ropa interior
+(los) calcetines
+(la) chaqueta
+(la) bufanda
+(el) pañuelo
+(la) blusa
+(el) vestido
+(el) bolsillo
+(el) botón
+(el) cinturón
+(el) suéter
+(la) manga
+(los) pantalones
+ancho(a)
+estrecho(a)
+(los) zapatos
+(el) tacón
+(las) botas
+(la) sandalia
+(la) oreja
+(el) oído
+(el) arete
+(los) pendientes
+(el) cuello
+(la) cadena
+(la) muñeca
+(el) dedo
+(el) anillo
+(el) reloj
+(la) pulsera
+(la) cadena de oro
+(el) mercado
+abarrotes
+(los) ultramarinos
+(el) colmado
+(el) supermercado
+(el) hipermercado
+(la) panadería
+(la) carnicería
+(la) pescadería
+(los) mariscos
+(la) pastelería
+(la) verdulería
+(las) legumbres
+(el) vegetal
+(la) frutería
+(el) pasillo
+(el) carrito
+(el) ajedrez
+(el) tablero
+(las) damas
+(el) dominó
+(la) ficha
+(el) crucigrama
+(el) sello
+(la) moneda
+(el) juego
+(el) futbolín
+(el) lago
+(la) jaula
+(el) mono
+(el) zoológico
+(el) mimo
+(el/la) payaso(a)
+(el) globo
+(la) montaña rusa
+(el) caballito
+(el) tiovivo
+(la) boletería
+(el) parque de atracciones
+a la derecha
+a la izquierda
+(el) hotel
+(el/la) cliente(a)
+(el/la) huésped(a)
+(el/la) recepcionista
+(la) recepción
+(el) cuarto
+(la) habitación
+(la) ficha
+(la) tarjeta
+(la) llave
+(el) ascensor
+(el) elevador
+(el) botones
+(el) armario
+(la) percha
+(el) colgador
+(el) sofá
+(el) aire acondicionado
+(la) almohada
+(la) sábana
+(la) manta
+(la) frazada
+(la) cama
+(el) televisor
+(el) baño
+(la) ducha
+(el) jabón
+(el) lavabo
+(la) bañera
+(el) inodoro
+(la) toalla
+(el/la) piloto
+(el/la) copiloto(a)
+(el) comandante
+(el) avión
+(la) tripulación
+(el/la) asistente de vuelo
+(el) compartimiento
+(la) salida
+(la) emergencia
+(la) señal
+(la) cabina
+no fumar
+(el) cinturón de seguridad
+(el) asiento
+(la) ventanilla
+(el) pasillo
+(el) respaldo
+(la) máscara
+(el) oxígeno
+(el) chaleco
+(los) aseos
+ocupado(a)
+(los) audífonos
+(los) auriculares
+(la) bandeja
+(el) carrito
+(la) avioneta
+(el) helicóptero
+(el) avión de reacción
+(la) torre de control
+(la) terminal
+(el/la) pasajero(a)
+(la) pista
+(el) despegue
+(el) aterrizaje
+(la) geografía
+(la) montaña
+(el) altiplano
+(el) pico
+(la) llanura
+(la) cordillera
+(la) altura
+(la) altitud
+(la) meseta
+(el) lago
+(el) valle
+(el) cuerpo
+(el) hombro
+(el) pecho
+(el) codo
+(la) muñeca
+(el) brazo
+(el) dedo
+(la) rodilla
+(la) pierna
+(el) tobillo
+(el) pie
+hacer daño
+lastimarse
+(el) daño
+(la) cara
+(la) frente
+(la) mejilla
+(la) nariz
+(el) ojo
+(el) oído
+(la) oreja
+(el) labio
+(la) ambulancia
+(la) camilla
+(el/la) socorrista
+(el) hospital
+(la) recepción
+(el) formulario
+(la) muleta
+(la) silla de ruedas
+(el/la) enfermero(a)
+(el) rayo equis
+(el) vendaje
+(la) tensión arterial
+(el) pulso
+(la) radiografía
+(la) fractura
+(la) ciudad
+(el) rascacielos
+(la) oficina
+(la) fábrica
+(el) edificio
+(el) plano
+(la) calle
+(la) avenida
+(el) bulevar
+(la) plaza
+(el) semáforo
+(el) cruce
+(la) esquina
+(el/la) peatón(ona)
+(la) acera
+(el) autobús
+(la) guagua
+(el) camión
+(el) metro
+(el) torniquete
+(la) escalera mecánica
+(el) campo
+(el/la) campesino(a)
+(la) finca
+(la) casa de campo
+(el) pueblo
+sembrar
+(la) siembra
+(el) trigo
+(el) maíz
+(la) cosecha
+cosechar
+(el) ganado
+(la) vaca
+(la) gallina
+(el) cerdo
+(la) pera
+(el) peral
+(la) manzana
+(el) manzano
+(el) huerto
+(el) vegetal
+(la) cocina
+(el) horno
+(el) horno microondas
+(la) estufa
+(la) hornilla
+(el) congelador
+(la) nevera
+(el) refrigerador
+freír
+(la) sartén
+hervir
+(la) olla
+(la) cazuela
+revolver
+(la) parrilla
+asar
+(los) comestibles
+(la) lechuga
+(el) pepino
+(la) cebolla
+(la) zanahoria
+(la) papa
+(la) patata
+(la) lima
+(el) limón
+(la) toronja
+(la) uva
+(la) sal
+(la) pimienta
+(el) azúcar
+(la) carne de res
+(el) pollo
+(la) costilla
+(la) salchicha
+(el) chorizo
+(la) chuleta de cerdo
+(la) ternera
+(el) cordero
+limpiar
+pelar
+rallar
+rebanar
+(la) rebanada
+cortar
+agregar
+añadir
+(el) pedacito
+tapar
+(el) pimiento
+(el) aguacate
+(el) ajo
+(el) plátano
+(la) banana
+(la) papaya
+(el) coco
+(la) sandía
+(el) aceite
+(la) mantequilla
+(el) arroz
+(la) habichuela
+(los) frijoles
+(los) mariscos
+(el) mejillón
+(la) almeja
+(el) calamar
+(la) langosta
+(los) camarones
+(las) gambas
+(el) pescado
+(el/la) conductor(a)
+(el) descapotable
+(el) convertible
+(el) cupé
+(el) sedán
+deportivo(a)
+(el) permiso de conducir
+(la) licencia
+(el) cinturón de seguridad
+(el) parabrisas
+(el) capó
+(la) luz
+(la) maletera
+(el) baúl
+(la) puerta
+(la) llanta
+(el) neumático
+(el) claxon
+(la) bocina
+(la) direccional
+(la) llanta de repuesto
+manejar
+(el) rótulo
+(la) autopista
+(la) autovía
+(el) peaje
+(la) garita
+(el) carril
+(la) velocidad
+(la) entrada
+(la) salida
+(la) cuadra
+(la) bocacalle
+(el) parquímetro
+aparcar
+estacionar
+(el/la) peluquero(a)
+(la) peluquería
+(el) barbero
+(el) peine
+(la) raya
+(el) pelo
+(el) cabello
+(la) navaja
+(el) champú
+(las) tijeras
+(el) secador
+(la) tintorería
+(la) limpieza en seco
+(la) ropa sucia
+planchar
+(la) lana
+(el) algodón
+(la) máquina de lavar
+sucio(a)
+limpio(a)
+(el) correo
+(el) correo
+(la) carta
+(el) sobre
+(la) tarjeta postal
+(el) sello
+(la) estampilla
+(el) buzón
+(la) ventanilla
+(el) banco
+(la) cuenta corriente
+(la) moneda
+(el) dinero
+(el) efectivo
+(el/la) cajero(a)
+endosar
+(el) cheque de viajero
+cambiar
+(el/la) cambisto(a)
+(el) cambio
+suelto(a)
+(el) cumpleaños
+feliz cumpleaños
+(las) velas
+(el) pastel
+(la) torta
+(la) boda
+(la) dama
+(el) honor
+(la) novia
+(el) novio
+(el) regalo
+(la) Navidad
+(el) árbol
+Feliz Navidad
+(el) Año Nuevo
+¡Próspero Año Nuevo!
+(el/la) camello(a)
+(la) paja
+(los) Reyes Magos
+(la) menora
+(el) Jánuca
+(la) oficina
+(el/la) secretario(a)
+(el/la) contable
+(el/la) programador(a)
+(el/la) gerente
+(el/la) ingeniero(a)
+(el/la) comerciante
+(el/la) cajero(a)
+(el/la) funcionario(a)
+(el/la) alcalde(sa)
+(el/la) arquitecto(a)
+(el) tribunal
+(el/la) juez
+(el/la) abogado(a)
+(el) bufete
+(el/la) electricista
+(el/la) fontanero(a)
+(el/la) plomero(a)
+(el/la) carpintero(a)
+(el/la) albañil
+(el) puesto
+(el) tiempo parcial
+(los) recursos humanos
+(la) solicitud
+(el) empleo
+(el/la) empleado(a)
+(el/la) entrevistador(a)
+entrevistar
+(el/la) candidato(a)
+(el/la) aspirante
+acordarse
+acostarse
+afeitarse
+bañarse
+cepillarse el pelo
+cepillarse los dientes
+despertarse
+dormirse
+ducharse
+enojarse
+irse
+lavarse la cara
+levantarse
+llamarse
+maquillarse
+peinarse
+ponerse
+ponerse pesado(a)
+preocuparse
+probarse
+quedarse
+quitarse
+secarse
+sentarse
+sentirse
+vestirse
+antes (de)
+después (de)
+después
+durante
+entonces
+luego
+más tarde
+por último
+algo
+alguien
+algún(una)
+jamás
+nada
+nadie
+ni ... ni ...
+ningún(una)
+nunca
+o... o
+siempre
+también
+tampoco
+(el) baño
+(el) cuarto de baño
+(el) champú
+(la) crema de afeitar
+(la) ducha
+(el) espejo
+(el) inodoro
+(el) jabón
+(el) lavabo
+(el) maquillaje
+(la) pasta de dientes
+(la) toalla
+aburrir
+encantar
+faltar
+fascinar
+importar
+molestar
+quedar
+(el) despertador
+(la) pantufla
+(la) rutina
+diario(a)
+por la mañana
+por la noche
+por la tarde
+necesito
+Tranquilo(a)
+no te preocupes
+Me encanta(n)
+Me molesta(n)
+encontrarse con
+(el) camarero
+(la) camarera
+(la) comida
+(la) cuenta
+(el/la) dueño(a)
+(el) menú
+(la) propina
+(el) almuerzo
+(la) cena
+(el) desayuno
+(los) entremeses
+(el) plato principal
+delicioso(a)
+rico(a)
+sabroso(a)
+(la) banana
+(la) fruta
+(el) limón
+(la) manzana
+(el) melocotón
+(la) naranja
+(la) pera
+(la) uva
+(las) arvejas
+(la) cebolla
+(el) champiñón
+(la) ensalada
+(el) espárrago
+(los) frijoles
+(la) lechuga
+(el) maíz
+(la) papa
+(la) patata
+(el) tomate
+(la) verdura
+(la) zanahoria
+(el) atún
+(el) bistec
+(los) camarones
+(la) carne
+(la) carne de res
+(la) chuleta de cerdo
+(la) hamburguesa
+(el) jamón
+(la) langosta
+(el) marisco
+(el) pavo
+(el) pescado
+(el) pollo
+(la) salchicha
+(el) salmón
+(el) aceite
+(el) ajo
+(el) arroz
+(el) azúcar
+(el) cereal
+(el) huevo
+(la) mantequilla
+(la) margarina
+(la) mayonesa
+(el) pan
+(el) pan tostado
+(el) queso
+(la) sal
+(el) sándwich
+(la) sopa
+(el) vinagre
+(el) yogur
+(el) agua
+(la) bebida
+(el) café
+(el) jugo
+(la) leche
+(el) refresco
+(el) té
+escoger
+merendar
+morir
+pedir
+probar
+recomendar
+servir
+(el/la) gerente
+(el) caballero
+como
+más de
+menos de
+(el/la) mejor
+(el/la) mayor
+(el/la) menor
+(el/la) peor
+mejor
+peor
+(el) aniversario
+(la) boda
+(el) cumpleaños
+(el) día de fiesta
+(la) fiesta
+(el/la) invitado(a)
+(la) Navidad
+(la) quinceañera
+(la) sorpresa
+brindar
+celebrar
+divertirse
+invitar
+pasarlo bien
+pasarlo mal
+regalar
+reírse
+relajarse
+sonreír
+sorprender
+(los) dulces
+(el) flan
+(la) galleta
+(el) helado
+(el) pastel
+(el) pastel de chocolate
+(el) postre
+(la) amistad
+(el) amor
+(el) divorcio
+(el) estado civil
+(el) matrimonio
+(la) pareja
+(el/la) recién casado(a)
+casarse
+comprometerse
+divorciarse (de)
+enamorarse
+llevarse bien
+llevarse mal
+odiar
+romper con
+salir con
+separarse (de)
+tener una cita
+casado(a)
+divorciado(a)
+juntos(as)
+separado(a)
+soltero(a)
+viudo(a)
+(la) adolescencia
+(la) edad
+(las) etapas de la vida
+(la) juventud
+(la) madurez
+(la) muerte
+(el) nacimiento
+(la) niñez
+(la) vejez
+cambiar
+graduarse
+jubilarse
+nacer
+(la) alegría
+(el) beso
+conmigo
+contigo
+felicidades
+felicitaciones
+feliz cumpleaños
+(el) alma
+(el) altar
+(el) ángel
+(la) calavera de azúcar
+(el) cementerio
+(la) cocina
+(el) disfraz
+(la) boca
+(el) brazo
+(la) cabeza
+(el) corazón
+(el) cuello
+(el) cuerpo
+(el) dedo
+(el) dedo del pie
+(el) estómago
+(la) garganta
+(el) hueso
+(la) nariz
+(el) oído
+(el) ojo
+(la) oreja
+(el) pie
+(la) pierna
+(la) rodilla
+(el) tobillo
+(el) accidente
+(el) antibiótico
+(la) aspirina
+(la) clínica
+(el) consultorio
+(el/la) dentista
+(el/la) doctor(a)
+(el) dolor
+(el) dolor de cabeza
+(el/la) enfermero(a)
+(el) examen médico
+(la) farmacia
+(la) gripe
+(el) hospital
+(la) infección
+(la) medicina
+(el) medicamento
+(la) operación
+(el/la) paciente
+(la) pastilla
+(la) radiografía
+(la) receta
+(el) resfriado
+(la) sala de emergencia
+(la) salud
+(el) síntoma
+(la) tos
+caerse
+dañar
+darse con
+doler
+enfermarse
+estar enfermo(a)
+estornudar
+lastimarse
+olvidar
+poner una inyección
+prohibir
+recetar
+romper
+romperse la pierna
+sacarse un diente
+ser alérgico(a)
+sufrir una enfermedad
+tener dolor
+tener fiebre
+tomar la temperatura
+torcerse
+toser
+a menudo
+a tiempo
+a veces
+además
+apenas
+así
+bastante
+casi
+con frecuencia
+de niño(a)
+de vez en cuando
+despacio
+menos
+muchas veces
+poco(a)
+por lo menos
+pronto
+todos los días
+rápido
+congestionado(a)
+embarazada
+grave
+mareado(a)
+médico(a)
+saludable
+sano(a)
+mientras
+(la) canela
+(la) miel
+terco(a)
+(la) aplicación
+(la) cámara digital
+(la) cámara de video
+(el) canal
+(el) cargador
+(el) cibercafé
+(el) control remoto
+(el) correo de voz
+(el) disco compacto
+(el) estéreo
+(el) radio
+(el) reproductor de CD
+(el) reproductor de MP3
+(el) teléfono celular
+(el) televisor
+apagar
+funcionar
+llamar
+poner
+prender
+sonar
+descompuesto(a)
+lento(a)
+lleno(a)
+(el) archivo
+(la) arroba
+(el) blog
+(el) buscador
+(la) computadora
+(la) computadora portátil
+(la) conexión inalámbrica
+(la) dirección electrónica
+(la) impresora
+(la) internet
+(el) mensaje de texto
+(el) monitor
+(la) página principal
+(la) pantalla
+(el) programa de computación
+(el) ratón
+(la) red
+(el) reproductor de DVD
+(el) sitio web
+(el) teclado
+borrar
+chatear
+descargar
+escanear
+grabar
+guardar
+imprimir
+navegar en Internet
+(la) autopista
+(el) baúl
+(la) calle
+(la) carretera
+(el) capó
+(el) carro
+(el) coche
+(la) circulación
+(el) tráfico
+(el) garaje
+(el) taller
+(la) gasolina
+(la) gasolinera
+(la) licencia de conducir
+(la) llanta
+(el/la) mecánico(a)
+(el) navegador GPS
+(el) parabrisas
+(la) policía
+(la) velocidad máxima
+(el) volante
+arrancar
+arreglar
+bajarse de
+conducir
+manejar
+estacionar
+llenar
+(el) tanque
+parar
+revisar el aceite
+subir a
+abrazar
+ayudar
+besar
+encontrar
+saludar
+por aquí
+por ejemplo
+por eso
+por fin
+entregar
+(el) intento
+(las) noticias
+(el) proyecto
+recuperar
+(las) afueras
+(el) alquiler
+(el) ama de casa
+(el) barrio
+(el) edificio de apartamentos
+(el/la) vecino(a)
+(la) vivienda
+alquilar
+mudarse
+(el) altillo
+(el) balcón
+(la) cocina
+(el) comedor
+(el) dormitorio
+(la) entrada
+(la) escalera
+(el) garaje
+(el) jardín
+(la) oficina
+(el) pasillo
+(el) patio
+(la) sala
+(el) sótano
+(la) alfombra
+(la) almohada
+(el) armario
+(el) cartel
+(la) cómoda
+(la) cortina
+(el) cuadro
+(el) estante
+(la) lámpara
+(la) luz
+(la) manta
+(la) mesita
+(la) mesita de noche
+(los) muebles
+(la) pared
+(la) pintura
+(el) sillón
+(el) sofá
+(la) cafetera
+(la) cocina [old usage]
+(la) estufa
+(el) congelador
+(los) electrodomésticos
+(el) horno
+(el) horno microondas
+(la) lavadora
+(el) lavaplatos
+(el) refrigerador
+(la) secadora
+(la) tostadora
+arreglar
+barrer el suelo
+cocinar
+ensuciar
+hacer la cama
+hacer quehaceres domésticos
+lavar
+lavar los platos
+limpiar la casa
+pasar la aspiradora
+planchar la ropa
+poner la mesa
+quitar la mesa
+quitar el polvo
+sacar la basura
+sacudir los muebles
+aconsejar
+insistir
+mandar
+recomendar
+rogar
+sugerir
+es bueno que
+es importante que
+es malo que
+es mejor que
+es necesario que
+es urgente que
+(la) copa
+(la) cuchara
+(el) cuchillo
+(el) plato
+(la) servilleta
+(la) taza
+(el) tenedor
+(el) vaso
+(el) plumero
+quiero
+necesito
+comer
+ir
+ver
+hablar
+con usted
+ahora
+pronto
+para
+más
+esta noche
+voy a
+Me gustaría ...
+visitar
+invitar
+ayudar
+llamar
+otra vez
+con
+próximo(a)
+este(a,o)
+(la) semana
+mañana
+tengo que
+(yo) puedo
+estudiar
+regresar
+estar
+trabajar
+hoy
+(la) semana
+(el) fin de semana
+(el) mes
+(el) año
+(la) noche
+mucho(a)
+Me gusta ...
+lo siento
+viajar
+pasar
+cocinar
+tomar
+hasta
+algo
+aquí
+un rato
+cada
+(el) día
+quiere
+necesita
+¿Cuándo?
+conmigo
+pero
+o
+va a
+le gustaría
+aprender
+porque
+¿Por qué?
+allá
+tiene que
+puede
+terminar
+¡Ahora mismo!
+(la) tarde
+con él
+le gusta
+antes (de)
+¿Qué?
+caminar
+hacer
+desayunar
+queremos
+necesitamos
+cuanto antes
+nuestro(a,os,as)
+manejar
+descansar
+vamos a
+nos gustaría
+encontrar
+empezar
+comprar
+gastar
+tenemos que
+podemos
+salir
+sin
+temprano(a)
+con ella
+nos gusta(n)
+nos encanta
+después (de)
+¿Dónde?
+cenar
+más tarde
+esperar
+buscar
+olvidar
+besar
+conocer
+escuchar
+quieren
+necesitan
+pueden
+con nosotros
+(el) verano
+con ustedes
+tienen que
+van a
+llegar
+pagar
+siempre
+si
+les gusta
+les gustaría
+leer
+vivir
+practicar
+ordenar
+poder
+cantar
+muy
+también
+(el) invierno
+bien
+probar
+¿Quién?
+todo(a,os,as)
+les gustaría
+sólo(a)
+pasado mañana
+(la) hora
+nadie
+casi
+con ellos(as)
+tal vez
+quizás
+(el) cuñado
+(la) cuñada
+(la) hermanastra
+(el) hermanastro
+(los) hijastros
+(la) madrastra
+(el) padrastro
+(el) medio hermano
+(la) nuera
+(el) suegro
+(la) suegra
+(el) yerno
+(los) abuelos
+(los) hermanos
+(los) tíos
+(los) primos
+(los) nietos
+(la) madre
+(el) padre
+(el) sobrino
+(la) sobrina
+(los) hijos
+actuar
+ahorrar
+basarse
+cambiar
+competir
+dar permiso
+descubrir
+discutir
+entregar
+jugar
+llenar
+llevarse bien
+mejorar
+meterse en problemas
+mudarse
+parecerse
+pelear
+permitir
+recordar
+sacar una buena nota
+saltar a la cuerda
+soñar
+subir
+volar
+preguntar
+casarse
+(el) árbol genealógico
+(el) barrio
+(el/la) científico(a)
+(el) cuento
+(la) escuela
+(el/la) joven
+(la) juventud
+(la) niñez
+(el/la) periodista
+(el) personaje
+(el/la) político(a)
+(el) recreo
+(el) recuerdo
+(el/la) socio(a)
+(las) tiras cómicas
+(el/la) atleta
+(la) mascota
+cierto o falso
+dormido(a)
+a tiempo
+¿Cómo eras?
+de niño(a)
+había
+mentiroso(a)
+todavía
+(la) amistad
+(el) amor
+(el) brillo
+(el) cariño
+(el) castigo
+(los) celos
+(el) comportamiento
+(el) individualismo
+(el) lazo
+(el) odio
+(la) reciprocidad
+(el) sentimiento
+(el/la) ahijado(a)
+(la) esposa
+(el) esposo
+(los) hijos
+(los) hijastros
+(la) madrina
+(el) marido
+(la) mujer
+(la) novia
+(el) novio
+(el) padrastro
+(la) madrastra
+(el) padrino
+animado(a)
+aséptico(a)
+controlador(a)
+desesperarse
+duro(a)
+egoísta
+enamorado(a)
+envidioso(a)
+exigente
+frágil
+inestable
+infeliz
+inseparable
+intolerante
+perfeccionista
+permisivo(a)
+servicial
+triste
+verdadero(a)
+abrazar
+aceptar
+afianzar
+amar
+alargar
+aparecer
+aplacar
+besar
+castigar
+comportarse
+comprometerse
+disciplinar
+enfadarse
+enojarse
+entretener
+irradiar
+llevar pegado(a)
+pelear
+ponerse
+portarse
+preocuparse por
+prohibir
+quejarse
+recuperarse
+reunirse
+romper
+salir
+saludar
+seguir
+sentir
+tolerar
+(los) altibajos
+a menudo
+(el) compromiso
+(la) convivencia
+dar un consejo
+dar de alta
+(los) demás
+(el) infarto
+ingresado(a)
+(la) inquietud
+juntos(as)
+(la) mentira
+pasar el tiempo
+(el) pasillo
+perenne
+poco a poco
+(la) apertura
+en conjunto
+(el) crecimiento
+(la) democracia
+(los) derechos humanos
+(el) desarrollo
+(la) dictadura
+(la) discriminación
+(la) droga
+(el) gobierno
+(la) independencia
+(el) inversor
+(la) libertad
+(la) lucha
+(las) mejoras
+(el) narcotráfico
+(los) negocios
+(el) nivel de vida
+(la) población
+(el) poder
+(la) política
+(la) recuperación
+(el) recurso
+rico(a)
+(el) yacimiento
+(el) barco
+(el) castigo físico
+(la) esclavitud
+(la) explotación
+(la) humillación
+(el) maltrato
+(la) mano de obra
+(la) opresión
+(la) potencia
+(el) respecto
+(el) sufrimiento
+(el) vasallo
+(la) vejación
+(la) violación
+(el/la) dictador(a)
+(el/la) esclavo(a)
+(el/la) traficante
+emergente
+marginado(a)
+oprimido
+(el/la) político(a)
+proporciado
+repartido
+contar
+empezar
+levantarse en contra de
+luchar
+privar
+resolver
+respetar
+soportar
+de acuerdo con
+(el) cuadro
+(la) enfermedad
+(el) hecho
+(el) país emergente
